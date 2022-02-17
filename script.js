@@ -32,4 +32,4 @@ botaoLimpar.addEventListener('click', function() {
     inputPeso.value = '';
     inputAltura.value = '';
     resultadoIMC.innerHTML = '';
-})
+});
